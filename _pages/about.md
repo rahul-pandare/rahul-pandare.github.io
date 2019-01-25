@@ -11,6 +11,7 @@ redirect_from:
 I’m a first-year PhD student at [UC San Diego](https://ucsd.edu/) advised by [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova/). I am a member of the [Programming Systems](http://cseweb.ucsd.edu/groups/progsys/) group.
 I graduated from BITS Pilani, Goa with an Electronics Bachelor's degree in Fall 2017. Following my graduation, I worked as a research assistant in the [Software Technology Group](https://softech.informatik.uni-kl.de/homepage/en/) at [TU Kaiserslautern](https://www.uni-kl.de/en/home/).<br/>
 Previously, I participated in the [December 2015 - March 2016 round](https://wiki.gnome.org/Outreachy/2015/DecemberMarch) of [Outreachy](https://www.outreachy.org/) working on Staging driver cleanup with Linux Foundation.
+My detailed resume can be found **[here]**()
 
 Research Interests
 ======
