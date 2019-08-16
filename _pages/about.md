@@ -26,6 +26,9 @@ I am currently serving as one of the [Outreachy coordinators](https://www.outrea
 
 News
 ------
-* August 2018 - I joined the [Programming Systems](http://cseweb.ucsd.edu/groups/progsys/) group as a PhD student!
-* June 2019 - I joined MSR Redmond as Summer Research Intern with the [**PROSE**](https://microsoft.github.io/prose/) team.
-* August 2019 - **Constraint-based Learning of Phonological Processes** was accepted into EMNLP 2019.
+* Novemember 2019 - Attending ASE in San Diego, California. Come say hi!
+* August 2019 - **Constraint-based Learning of Phonological Processes** was accepted into EMNLP 2019!
+* June 2019 - Attending PLDI in Phoenix, Arizona. Come say hi!
+* June 2019 - Joined MSR Redmond as Summer Research Intern with the [**PROSE**](https://microsoft.github.io/prose/) team.
+* June 2019 - Awarded the UCSD CSE Diversity award for significant contributions to the department via diversity initiatives.
+* August 2018 - Joined the [Programming Systems](http://cseweb.ucsd.edu/groups/progsys/) group as a PhD student!
