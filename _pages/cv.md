@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download pdf [**here**](http://shraddhabarke.github.io/files/shraddhabarke.pdf)
+Download pdf [**here**](http://rahul-pandare.github.io/files/rahulpandare.pdf)
 
 <!----
 {% include base_path %}
