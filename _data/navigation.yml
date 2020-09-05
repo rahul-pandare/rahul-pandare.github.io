@@ -2,12 +2,6 @@
 main:
   - title: "Projects"
     url: /projects/
-
-  - #title: "Certification"
-    #url: /certification/    
-
-  - #title: "Projects"
-    #url: /projects/
         
   - title: "Blogs"
     url: /year-archive/

@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Rahul Pandare"
-  avatar           : "profile.png"
-  bio              : "Chemical Engineer Institute of Chemical Technology, Mumbai"
+  avatar           : "profile.jpg"
+  bio              : "Chemical Engineering from Institute of Chemical Technology, Mumbai"
   location         : "Mumbai, India"
   employer         :
   googlescholar    :
@@ -90,14 +90,14 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/rahul.pandare/"
+  facebook         : "rahul.pandare"
   foursquare       :
   github           : "rahul-pandare"
   google_plus      :
   keybase          :
   instagram        : "rahul.pandare"
   lastfm           :
-  linkedin         :  "https://www.linkedin.com/in/rahul-pandare-16214b111/"
+  linkedin         :  "rahul-pandare-16214b111/"
   orcid            :
   pinterest        :
   soundcloud       :
