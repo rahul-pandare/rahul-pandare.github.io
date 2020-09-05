@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rahul Pandare"
 title_separator          : "-"
 name                     : &name "Rahul Pandare"
-description              : &description "Process engineer at Aker Solutions"
+description              : &description "Process engineer | Aker Solutions"
 url                      : https://rahul-pandare.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rahul-pandare.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Rahul Pandare"
   avatar           : "profile.jpg"
-  bio              : "Chemical Engineering from Institute of Chemical Technology, Mumbai"
+  bio              : "Process Engineer | Aker Solutions"
   location         : "Mumbai, India"
   employer         :
   googlescholar    :
