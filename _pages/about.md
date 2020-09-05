@@ -19,5 +19,6 @@ My research interests include *```Catalysis```*, *```Process Development & Optim
 
 Get in Touch 
 ======
-When not reading novels or travelling, I keep myself busy with some personal projects. Check out my recent project where I tried [logistic regression on the COVID-19 cases](https://github.com/rahul-pandare/Logistic-curvefit-to-the-COVID-19-cases). </br>
+When not reading novels or travelling, I keep myself busy with some personal projects. Check out my recent project where I tried [logistic regression on the COVID-19 cases](https://github.com/rahul-pandare/Logistic-curvefit-to-the-COVID-19-cases).
+</br> 
 I would love to get in touch with anyone who would like to collaborate on such projects or blogs!😃
