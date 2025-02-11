@@ -13,9 +13,9 @@ title                    : "&nbsp;&nbsp;&nbsp;About&nbsp;&nbsp;&nbsp;"
 title_separator          : "-"
 name                     : &name "Rahul Pandare"
 description              : &description #"Ph.D Student, Non-eq Stat Phy"
-url                      : https://rahul-pandare.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://rahulpandare.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/rahul-pandare/rahul-pandare.github.io"
+repository               : "https://github.com/rahul-pandare/rahulpandare.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "Ph.D., Noneq. Stat. Phys."
   location         : "New York, USA"
   employer         : "City College of New York, NY"
-  url              : "https://rahul-pandare.github.io"
+  url              : "https://rahulpandare.github.io"
   email            : "pandare.rahul@gmail.com" 
 
   # Academic websites
