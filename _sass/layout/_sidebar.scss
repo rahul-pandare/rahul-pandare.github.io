@@ -258,3 +258,26 @@
     }
   }
 }
+
+/* rvp
+/* Increase font size for sidebar elements */
+.sidebar {
+  font-size: 1.1em; /* Adjust as needed */
+}
+
+.sidebar h2, .sidebar h3, .sidebar h4, .sidebar h5, .sidebar h6 {
+  font-size: 1.1em; /* Adjust heading sizes */
+}
+
+.sidebar p, .sidebar li, .sidebar a {
+  font-size: .8em; /* Adjust paragraph, list, and link sizes */
+}
+
+.sidebar .author__name {
+  font-size: 1.1em; /* Increase author name size */
+}
+
+.sidebar .author__urls a {
+  font-size: 1em; /* Adjust social links font size */
+}
+

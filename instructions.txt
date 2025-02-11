@@ -1,0 +1,17 @@
+Feb 10 2025
+RVP
+
+Run the Jekyll compilation from terminal: bundle exec jekyll serve --livereload
+
+Instructions for future updates:
+- To update text size: assets/css/custom.css. Currently size is 17px
+- To update sidebar text size: _sass/layout/_sidebar.scss (at the end)
+- To update publications, teachings, blogs: _publications/(paper-title). Copy the existing .md file update the paper details and re compile Jekyll.
+
+- To update the navigation tabs: _data/navigation.yml
+
+- Update blogs in: _posts. For some reach the file name should same format as mentioned in the folder.
+
+- Update CV: _pages/cv.md. 
+
+- Update more: _pages/more.md. Images in assests/more/. For now 2 images not working.

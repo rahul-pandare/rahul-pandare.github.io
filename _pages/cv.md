@@ -11,53 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Chemical Engineering, City College of New York, 2026 (expected)
+* M.Phil. in Chemical Engineering, City College of New York, 2024
+* B.S. in Chemical Engineering, Institue of Chemical Technology, 2024
+
+Professional experience
+======
+* August 2019 - June 2021: Process Engineer
+  * Aker Solutions, Mumbai, India
+  * Consulted clients in the oil and energy industry
+  * Desgined capacity dual feed cracker unit and petrochemical fluidized catalytic cracking unit
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2021 - Present: Research Assistant
+  * City College of New York, NY, USA
+  * Worked on projects in non equilibrium statistical physics
+  * Supervisor: Prof. Jeffrey Morris and Prof. Mark Shattuck
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Numerical Methods
+* Python
+  * NumPy
+  * Tensorflow
+  * Keras
+  * Matplotlib
+  * Jupyter notebook
+* SLURM
+* LINUX
+* MD; DEM
+* AI/ ML
+* HPC
   
 Service and leadership
 ======
