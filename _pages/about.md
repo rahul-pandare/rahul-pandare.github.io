@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: " "  
+title: "Hi, I'm Rahul 💡🧑🏻‍💻🤿🏄🏻‍♂️"  
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Hi, I'm Rahul 💡🧑🏻‍💻🤿🏄🏻‍♂️
-
 ## I am a Ph.D. student at [City College of New York, NY](https://www.ccny.cuny.edu/engineering) 🎓, and I enjoy biking 🚴🏼, hiking 🗻, and scuba diving 🐠.
 
 I work with [Prof. Jeffrey Morris](https://www.ccny.cuny.edu/profiles/jeff-morris). My research focuses on the fascinating world of **dense suspensions**—complex fluids where microscopic interactions drive macroscopic behavior.
