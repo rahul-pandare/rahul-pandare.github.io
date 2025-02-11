@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 ## I am a Ph.D. student at [City College of New York, NY](https://www.ccny.cuny.edu/engineering) 🎓, and I enjoy biking 🚴🏼, hiking 🗻, and scuba diving 🐠.
+
 
 I work with [Prof. Jeffrey Morris](https://www.ccny.cuny.edu/profiles/jeff-morris). My research focuses on the fascinating world of **dense suspensions**—complex fluids where microscopic interactions drive macroscopic behavior.
 
@@ -31,6 +33,6 @@ These projects allow me to push the boundaries of simulation techniques and expl
 I'm always excited to discuss **complex fluids, computational modeling, and machine learning applications in physics**. Feel free to reach out!
 
 
-[**CV 📄**](assets/rahul_cv.pdf){:target="_blank"}
+[**CV**](assets/rahul_cv.pdf){:target="_blank"} 📄
 
-I believe in [**Open Science 🌍**](https://en.wikipedia.org/wiki/Open_science)
+I believe in [**Open Science**](https://en.wikipedia.org/wiki/Open_science) 🌍
