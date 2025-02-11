@@ -13,7 +13,7 @@ title                    : "&nbsp;&nbsp;&nbsp;About&nbsp;&nbsp;&nbsp;"
 title_separator          : "-"
 name                     : &name "Rahul Pandare"
 description              : &description #"Ph.D Student, Non-eq Stat Phy"
-url                      : https://rahulpandare.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://rahul-pandare.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/rahul-pandare/rahul-pandare.github.io"
 
@@ -28,7 +28,7 @@ author:
   bio              : "Ph.D., Noneq. Stat. Phys."
   location         : "New York, USA"
   employer         : "City College of New York, NY"
-  uri              : "https://rahulpandare.github.io"
+  url              : "https://rahul-pandare.github.io"
   email            : "pandare.rahul@gmail.com" 
 
   # Academic websites
