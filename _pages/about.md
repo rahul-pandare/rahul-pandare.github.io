@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hi, I'm Rahul 💡🧑🏻‍💻🤿🏄🏻‍♂️  
+## Hi, I'm Rahul 💡🧑🏻‍💻🤿🏄🏻‍♂️  
 
 ## I am a Ph.D. student at [City College of New York, NY](https://www.ccny.cuny.edu/engineering) 🎓, and I enjoy biking 🚴🏼, hiking 🗻, and scuba diving 🐠.
 
