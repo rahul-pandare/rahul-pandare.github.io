@@ -4,7 +4,7 @@
 git add .
 
 # Commit changes with a fixed message
-git commit -m "Updated Files"
+git commit -m "updated Files"
 
 # Detect the current branch (main or master)
 BRANCH=$(git symbolic-ref --short HEAD)
