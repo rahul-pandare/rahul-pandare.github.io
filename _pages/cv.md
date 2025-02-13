@@ -46,4 +46,4 @@ Skills
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently the recruiting and social chair. I look after social events for the department and carry out recruiting events and activities for potential candidate.
