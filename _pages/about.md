@@ -23,7 +23,7 @@ I investigate the rheology and contact parameters of **non-Brownian bidisperse d
 Earlier in my Ph.D., I worked on a **clogging problem** with soft particles flowing through a hopper. I developed **image processing techniques** to detect particle centers and later built a **convolutional neural network (CNN)** to automate tracking, achieving a **50x speedup**. I combined **convolution techniques** with **χ² analysis** for faster, more accurate tracking.
 
 ### **🔹 DEM Simulations & Hobby Projects**  
-Outside my core research, I build **Discrete Element Method (DEM)** simulations to test various hypotheses. I’ve explored **maximum packing fractions** of dense suspensions and am currently investigating how **particle rigidity** impacts packing fraction using the **Hertzian contact model**.
+Outside of my core research, I develop **Discrete Element Method (DEM)** simulations to explore and test various contact models. I have studied the Cundall-Strack and Hertz-Mindlin contact models in depth, understanding when and how to apply each effectively. Additionally, I create random packing scripts that serve multiple purposes: they initialize DEM simulations with minimal particle overlaps and help investigate the maximum packing densities of bidisperse and polydisperse systems—problems that are challenging to solve through geometry alone.
 
 These projects allow me to push the boundaries of simulation techniques and explore fundamental questions in particulate matter physics.  
 
