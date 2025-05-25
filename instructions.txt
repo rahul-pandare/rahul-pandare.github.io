@@ -10,7 +10,7 @@ Instructions for future updates:
 
 - To update the navigation tabs: _data/navigation.yml
 
-- Update blogs in: _posts. For some reason the file name should same format as mentioned in the folder.
+- Update blogs in: _posts. For some reason the file name should be same format as mentioned in the folder.
 
 - Update CV: _pages/cv.md. 
 
