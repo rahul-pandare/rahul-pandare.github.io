@@ -1,7 +1,8 @@
 Feb 10 2025
 RVP
 
-Run the Jekyll compilation from terminal: bundle exec jekyll serve --livereload
+Run the Jekyll compilation from terminal: 
+ $ bundle exec jekyll serve --livereload
 
 Instructions for future updates:
 - To update text size: assets/css/custom.css. Currently size is 17px
