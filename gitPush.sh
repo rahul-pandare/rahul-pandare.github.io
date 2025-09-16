@@ -12,4 +12,4 @@ BRANCH=$(git symbolic-ref --short HEAD)
 # Push changes
 git push origin "$BRANCH"
 
-echo "Changes pushed to $BRANCH with message: 'Updated Files'"
+echo "Changes pushed to $BRANCH with message: 'Fall 2025 Updates'

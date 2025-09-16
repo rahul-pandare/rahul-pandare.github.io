@@ -14,7 +14,8 @@ Course Instructor: [**Prof. Jeff Morris**](https://www.ccny.cuny.edu/profiles/je
 
 To support this, I will be conducting two sessions- Introduction to MATLAB and Numerical Discretization. Slides, codes, and other materials will be made available here.  
 
-**Computer Project**: [Computer_project_F25.pdf](/files/matlab/Computer_project_F2025.pdf)
+**Computer Project**: [Computer_project_F25.pdf](/files/matlab/Computer_project_F2025.pdf) 
+
 **Project Submission Deadline**: December 8, 2025
 **Office Hours**: *December 2 & 3, 2025,  10:00 AM - 6:00 PM* (Tentative)
 
