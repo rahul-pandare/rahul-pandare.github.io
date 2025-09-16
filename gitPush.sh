@@ -4,7 +4,7 @@
 git add .
 
 # Commit changes with a fixed message
-git commit -m "updated Files"
+git commit -m "Fall 2025 Updates"
 
 # Detect the current branch (main or master)
 BRANCH=$(git symbolic-ref --short HEAD)
@@ -12,4 +12,4 @@ BRANCH=$(git symbolic-ref --short HEAD)
 # Push changes
 git push origin "$BRANCH"
 
-echo "Changes pushed to $BRANCH with message: 'Fall 2025 Updates'
+echo "Changes pushed to $BRANCH with message: 'Fall 2025 Updates'"
