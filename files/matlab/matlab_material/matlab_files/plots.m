@@ -2,7 +2,7 @@
 % For plots in - into to MATLAB presentation
 %%
 % Plotting multiple curves using single plot command
-% Refer to plot on slide no. 8 in the presentation
+% Refer to plot on slide no. 9 in the presentation
 
 clc;    % clearing all output in command window
 clear;  % clearing all variables in workspace
@@ -23,7 +23,7 @@ axis([0 2*pi -3 3]) % setting the axis bounds for plots
 
 %%
 % loglog plot
-% Refer to plot on slide no. 9 in the presentation
+% Refer to plot on slide no. 10 in the presentation
 
 clc;    % clearing all output in command window
 clear;  % clearing all variables in workspace
