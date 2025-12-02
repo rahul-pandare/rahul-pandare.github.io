@@ -16,7 +16,10 @@ To support this, I will be conducting two sessions- Introduction to MATLAB and N
 
 **Computer Project**: [Computer_project_F25.pdf](/files/matlab/Computer_project_F2025.pdf)<br>
 **Project Submission Deadline**: December 8, 2025<br>
-**Office Hours**: *December 3, 2025,  3:00 PM - 6:00 PM* I would be sitting in the zoom room. Feel free to stop by anytime. [Zoom link](https://ccny.zoom.us/j/9213293683?pwd=eC9XWEVDb25DN2Nua0FBOE9nSWloZz09#success)
+**Office Hours**  
+- *Wednesday, December 3, 2025:* 3:00 PM – 4:50 PM  
+- *Thursday,  December 4, 2025:* 4:30 PM – 5:30 PM<br>
+I would be sitting in the zoom room. Feel free to stop by anytime. [Zoom link](https://ccny.zoom.us/j/9213293683?pwd=eC9XWEVDb25DN2Nua0FBOE9nSWloZz09#success)
 
 ### **Session Schedule**  
 - **Session 1: Introduction to MATLAB**   – *September 17, 2025, 5:00–5:45 PM*  
